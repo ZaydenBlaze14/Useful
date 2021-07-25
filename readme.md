@@ -104,6 +104,8 @@ Most of these are free or open-source
 
    - [Paragon Partition Manager](https://www.paragon-software.com/free/pm-express/) - Add, delete ,shrink, expand partitions 
 
+   - [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - Useful group of tools to troubleshoot your system
+
 #
 
 ## Misc
@@ -116,11 +118,13 @@ Most of these are free or open-source
    - [Hibit](http://www.hibitsoft.ir/Uninstaller.html) - Uninstaller tool for windows which removes the traces and also has the option to remove windows app
       > Use the portable version
 
+   - [PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity.
+
    - [Wiztree](https://diskanalyzer.com/) - Helps in visualizing large assortment of files
 
    - [Handbrake](https://handbrake.fr/) - Free and fast video converter
 
-   - [Putty]() - SSH and telnet client.
+   - [Putty](https://www.putty.org/) - SSH and telnet client.
 
 
    - [TaskbarX](https://chrisandriessen.nl/taskbarx) - Allows centering of icons on taskbar and changing the transparency level
