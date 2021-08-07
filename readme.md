@@ -12,10 +12,12 @@ Most of these are free or open-source
 # Softwares
    - Contents
       - [Art](#art)
+      - [Essentials](#Essentials)
       - [Gaming](#gaming)
       - [Networking](#networking)
       - [DEV](#dev)
       - [Tweaking](#tweaking)
+      - [Customization](#customization)
       - [Misc](#misc)
 
 #
@@ -27,7 +29,25 @@ Most of these are free or open-source
    - [Krita](https://www.krita.org/en/) - Open source painting program 
 
 #
-### Gaming
+## Essentials
+
+- [7Zip](https://www.7-zip.org/) - lightest file archiver/extractor
+
+ - [PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity.
+
+- [Wiztree](https://diskanalyzer.com/) - Helps in visualizing large assortment of files
+
+
+- [VLC](https://www.videolan.org/vlc/) - Works out of the box media player with many supported formats
+
+- [Everything](https://www.voidtools.com) - Locate files and folders by name instantly
+
+- [Unlocker](http://www.majorgeeks.com/files/details/unlocker.html) - Unlocker helps delete locked files with error messages including "cannot delete file," and "access is denied"
+
+#
+
+
+### Gaming/Streaming
 
    - [GOG Galaxy](https://www.gog.com/galaxy) - A unified launcher which shows all the games you own from different platform
 
@@ -38,6 +58,15 @@ Most of these are free or open-source
    - [Parsec](https://parsec.app/) - Remote desktop app which also allows for game streaming and co-op play, with lesser impact on performance (requires making an account)
 
    - [Playnite](https://playnite.link/) - Similar to GOG Galaxy but with more platforms, emulators, also with a portable version
+
+   
+   - [OBS](https://obsproject.com/) - Used for easy recording of displays or games with no to minimal cpu load
+
+   - [Voicemeeter](https://www.vb-audio.com/Voicemeeter/index.htm) - Configure different multiple audio inputs and outputs in your system
+
+
+   - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray
+
 
 
 #
@@ -102,59 +131,41 @@ Most of these are free or open-source
 
    - [ISLC](https://www.wagnardsoft.com/forums/viewtopic.php?t=1256) - Helps reduce some stutter in games by freeing up the cached memory
 
-   - [Paragon Partition Manager](https://www.paragon-software.com/free/pm-express/) - Add, delete ,shrink, expand partitions 
-
    - [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - Useful group of tools to troubleshoot your system
 
 #
+## Customization
 
+   - [T-Clock](https://github.com/White-Tiger/T-Clock) -  Configurable taskbar clock replacer of windows 
+
+   -  [TaskbarX](https://chrisandriessen.nl/taskbarx) - Allows centering of icons on taskbar and changing the transparency level
+
+   -  [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers
+
+   - [WallpaperEngine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) - Set animations, videos as your wallpaper
+
+   - [Lively Wallpaper](https://rocksdanister.github.io/lively/) - Free alternative to Wallpaper engine
+
+#
 ## Misc
-   - [7Zip](https://www.7-zip.org/) - lightest file archiver/extractor
-
-   - [OBS](https://obsproject.com/) - Used for easy recording of displays or games with no to minimal cpu load
+   
 
    - [ShareX](https://getsharex.com/) - Much more feature-rich screenshot tool, with auto uploading and editing features.
 
    - [Hibit](http://www.hibitsoft.ir/Uninstaller.html) - Uninstaller tool for windows which removes the traces and also has the option to remove windows app
       > Use the portable version
 
-   - [PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity.
-
-   - [Wiztree](https://diskanalyzer.com/) - Helps in visualizing large assortment of files
-
    - [Handbrake](https://handbrake.fr/) - Free and fast video converter
 
    - [Putty](https://www.putty.org/) - SSH and telnet client.
 
-
-   - [TaskbarX](https://chrisandriessen.nl/taskbarx) - Allows centering of icons on taskbar and changing the transparency level
-
-   - [Voicemeeter](https://www.vb-audio.com/Voicemeeter/index.htm) - Configure different multiple audio inputs and outputs in your system
-
    - [Etcher](https://etcher.io/) / [Rufus](https://rufus.akeo.ie/) - Bootable USB maker for linux/macos/windows ISOs
 
-   - [VLC](https://www.videolan.org/vlc/) - Works out of the box media player with many supported formats
-
-   - [WallpaperEngine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) - Set animations, videos as your wallpaper
-
-   - [Lively Wallpaper](https://rocksdanister.github.io/lively/) - Free alternative to Wallpaper engine
-
-   - [Everything](https://www.voidtools.com) - Locate files and folders by name instantly
-
-   - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers
-
-   - [Unlocker](http://www.majorgeeks.com/files/details/unlocker.html) - Unlocker helps delete locked files with error messages including "cannot delete file," and "access is denied"
-
-   - [T-Clock](https://github.com/White-Tiger/T-Clock) -  Configurable taskbar clock replacer of windows 
-
-   - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray
+# Websites
 
 
 
 
 
 
-
-
-
-
+# Guides
