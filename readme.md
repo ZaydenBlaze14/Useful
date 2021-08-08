@@ -9,6 +9,6 @@ Still be careful out on the internet.
 
 Most of these are free or open-source 
 
-- [Softwares](#softwares)
-- [Websites](#websites)
-- [Guides](#guides)
+- [Softwares](https://github.com/ZaydenBlaze14/Useful/blob/main/software.md)
+- [Websites]()
+- [Guides](https://github.com/ZaydenBlaze14/Useful/blob/main/guide.md)
