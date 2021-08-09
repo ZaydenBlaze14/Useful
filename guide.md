@@ -14,14 +14,14 @@ Cheers!
 
 
 # Contents
-- [Setting up WIndows]
-- [Undervolting and Underclocking for laptops]
-- [Customization]
-- [MSI laptops]
+- Setting up Windows
+- Undervolting and Underclocking for laptops
+- Customization
+- MSI laptops
 
 
 
-## 
+## Setting up Windows
 #
 
 I will assume you have an installed windows 10 home or pro pc, with your desired partitions laid out. There isnt anything to tweak in those.
