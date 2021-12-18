@@ -24,39 +24,41 @@ Cheers!
 ## Setting up Windows
 #
 
-I will assume you have an installed windows 10 home or pro pc, with your desired partitions laid out. There isnt anything to tweak in those.
+I will assume you have an installed windows 11 home or pro pc, with your desired partitions laid out. There isnt anything to tweak in those.
 
 - ## First time boot up
     - Remove Bloatware/ Uninstall using Hibit Portable
         - OneDrive
         #### On Tools >> Windows Store Apps Manager
-        - 3D Viewer
-        - Alarms and Clock
+        - Calender
         - Cortana 
         - Get Help
-        - HEIF Image Extensions
+        - Groove Music
         - Maps
+        - Microsoft News
         - Microsoft Pay
         - Microsoft Solitare Collection 
         - Mixed Reality Portal
         - Movies and TV 
         - Office
-        - OneNote
-        - Paint 3D
+        - OneDrive
         - People 
-        - Photos
-        - Skype
-        - Sticky Notes
+        - Power Automate
         - Tips 
         - Voice Recorder
-        - VP9 Video Extensions
         - Weather
-        - Web Media Extensions 
-        - Webp Image Extensions
         - Your Phone
 
     #### From Start Menu
-        - Microsoft News
+    - Spotify
+    - Disney+
+    - ClipChamp
+    - PrimeVideo
+    - TikTok
+    - Instagram
+    - Facebook
+    - 
+        
 
 - ## Drivers
     - ### Nvidia
