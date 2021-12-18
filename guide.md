@@ -64,10 +64,10 @@ I will assume you have an installed windows 10 home or pro pc, with your desired
         - Manually select driver version, choose your preferred driver version and platform
 
             >For desktops
-            ![desktops](./desktops.png)
+            ![desktops](./pics/desktops.png)
 
             >For laptops
-            ![laptops](./laptops.png)
+            ![laptops](./pics/laptops.png)
 
         - If you want geforce experience/shadowplay select he modules or download your drivers from the official website
 
@@ -112,7 +112,7 @@ For stress test use the throttlestop bench option, if there is a single error on
 - 4 Profiles, Performance, No-Boost, Quiet, Battery
 
 > ### For auto-switching to battery profile
-> ![tstop](./ts.png)
+> ![tstop](./pics/ts.png)
 
 ### For games/programs that require higher clocks
 > - Performance
