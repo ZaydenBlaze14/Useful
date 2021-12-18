@@ -89,7 +89,7 @@ I will assume you have an installed windows 10 home or pro pc, with your desired
 - [GPU](#gpu)
 - [Misc](#misc)
 
-### CPU 
+## <strong>CPU</strong> 
 
 Program Used : Throttlestop
 
@@ -106,7 +106,7 @@ Enable SpeedShift if you have the option in your bios.
 >        - igpu unslice  : -100mv
 >        - intel gpu : -100mv
 
-For stress test use the throttlestop bench option, if there is a singlt error on MAX size, change your undervolt
+For stress test use the throttlestop bench option, if there is a single error on MAX size, change your undervolt
 
 
 - 4 Profiles, Performance, No-Boost, Quiet, Battery
@@ -135,23 +135,43 @@ For stress test use the throttlestop bench option, if there is a singlt error on
 >    - Boost off
 
 
-### GPU
+## <strong>GPU</strong> 
 
 #### Mostly for reducing laptop temps
 
+<u><strong>Method 1</strong></u>
+Quick
+
 - Find out your max rated clock on the internet for your gpu
 
-- Using msi afterburner set the frequency curve to the frequency found above
+- Using msi afterburner set the frequency curve(CTRL+F) to the frequency found above
 
 As an example, max clock of my 1660ti mobile is rated at 1.59GHz. So I locked it to 1600MHz
 
-![maxclock](./maxclock.png)
+<img src="./pics/maxclock.png" alt="maxclock" width="400" height ="50"/>
 
-![afterburner](./afterburner.png)
+<img src="./pics/afterburner.png" alt="afterburner" width="700" height ="400"/>
 
 > Use shift + drag to select all points in the curve, select any one point, shift + enter and input the frequency
 
 > Do not run Afterburner on start up on laptops, it will constantly ping the dgpu and reduce battery life
+> 
+<u><strong>Method 2</strong></u>
+
+Run a benchmark such as [Heaven benchmark](https://benchmark.unigine.com/heaven)
+
+Keep running it in the background and open up msi afterburner curve editor.
+The lower axis represents the voltage of the GPU.
+
+- Check the clock where you gpu boosts to with optimal temps
+- Find out in the curve editor where the voltage of the frequency you found out match
+- Pick a lower voltage and set the frequency on that point to the optimal frequency
+- Apply and the rest should be set to the same
+- Keep doing this until heaven benchmark freezes or crashes, that's the minimum
+- Keep the optimal to 1 or 2 points higher in the afterburner
+
+![method2](./gifs/method2.gif)
+
 
 ### Misc
 
