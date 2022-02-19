@@ -9,6 +9,23 @@ Still be careful out on the internet.
 
 Most of these are free or open-source 
 
-- [Softwares](https://github.com/ZaydenBlaze14/Useful/blob/main/software.md)
+You can use these guides for setting up a new or an old installations of windows, I do not believe in running random scripts on my personal computer hence there won't be any links to any scripts that "makes your pc faster".
+
+I also use a microsoft account as it is used in my way of work so no privacy focused tweaks, for that you will have to do your own research. 
+
+That being said understand each step and proceed cautiously especially the hardware manipulation part. As this is a written guide, read all the steps before starting to do anything.
+
+All the links of the softwares used are in the softwares page
+
+I am not responsible for bricking your pc. Follow these at your own risks
+
+Cheers!
+
+
+- [Softwares](./guides/software.md)
 - [Websites]()
-- [Guides](https://github.com/ZaydenBlaze14/Useful/blob/main/guide.md)
+- [Guides](./guides/guide.md)
+    - [Setting Up Windows]()
+    - [Reduce Laptop Temps & Performance Tweaks](./guides/temps.md)
+    - [Customization]()
+    - [Gaming Tweaks](./guides/game.md)
