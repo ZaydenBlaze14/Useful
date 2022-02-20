@@ -12,7 +12,7 @@
 </pre>
 <p>&nbsp;</p>
 
-<pre>2. Epic Games Launcher still does not have the functionality to remember games on external hdds. Having to reverify them is a pain.
+<pre>2. Epic Games Launcher still does not have the functionality to remember games on external hdds.  Having to reverify them is a pain.
 
     - Go to <b>C:\ProgramData\Epic\EpicGamesLauncher\Data\Manifests</b>
   
@@ -23,7 +23,7 @@
 
 <p>&nbsp;</p>
 
-<pre>3. Corsair iCUE on laptops is a nightmare, constantly pings the dedicated gpu in the background, increasing idle temperatures and reducing battery life. Most of these apply to laptops but can also be used for your desktop. Try and see what works.
+<pre>3. Corsair iCUE on laptops is a nightmare, constantly pings the dedicated gpu in the background, increasing idle temperatures and reducing battery life.  Most of these apply to laptops but can also be used for your desktop. Try and see what works.
 
     - Go to <b>C:\Program Files\Corsair\CORSAIR iCUE 4 Software</b>
   
